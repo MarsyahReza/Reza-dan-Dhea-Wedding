@@ -498,6 +498,11 @@
     .sticky-top {
       overflow: hidden;
     }
+
+    .info .peta {
+      width: 70%;
+      height: 50;
+    }
   
     .timeline li .timeline-image {
       width: 80px;
